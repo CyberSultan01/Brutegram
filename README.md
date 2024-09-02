@@ -12,14 +12,14 @@
 ```
 apt update && apt upgrade
 
-apt install python python2 git jq
+apt install python python2 git 
 
 pip2 install requests mechanize
 
 git clone https://github.com/Err0r-ICA/Brutegram 
 
 cd Brutegram
-
+chmod +x *
 bash Brutegram
 ```
 
