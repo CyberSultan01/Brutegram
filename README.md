@@ -1,11 +1,11 @@
-# 💥 Brutegram 💥<br>Instagram Multi-Bruteforce (⚠️ currently NOT working ⚠️) 
+# 💥 Brutegram 💥<br>Instagram Multi-Bruteforce (Recreated by CyberSultan) 
 
 ![logo](https://i.ibb.co/mRKXJft/81838757572.jpg)
  
 <p align="center">
-  <img alt="Err0r-ICA' Github Stats" src="https://github-readme-stats.vercel.app/api?username=Err0r-ICA&show_icons=true&include_all_commits=true&hide_border=true" />
-<!--  <img alt="profile pic" width="195px" src="https://avatars2.githubusercontent.com/u/26059688?s=460&u=d41b000a62eab50d000c3da604d151cec27bd850&v=4" />  -->
-<!--  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Err0r-ICA&hide=ruby,perl&hide_border=true" />  -->
+  <img alt="Cybersultan01' Github Stats" src="https://github-readme-stats.vercel.app/api?username=CyberSultan01&show_icons=true&include_all_commits=true&hide_border=true" />
+<!--  <img alt="profile pic" width="195px" src="https://avatars2.githubusercontent.com/s=460&u=d41b000a62eab50d000c3da604d151cec27bd850&v=4" />  -->
+<!--  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Cybersultan01 &hide=ruby,perl&hide_border=true" />  -->
 </p>
 
 ## 💿 Installation 💿
@@ -29,7 +29,7 @@ bash Brutegram
 
 
 ### 👤 Connect with me 👤
-<a href="https://github.com/Err0r-ICA"><img align="left" alt="codeSTACKr | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
+<a href="https://github.com/Cybersultan01"><img align="left" alt="codeSTACKr | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
 <a href="https://t.me/https://t.me/hacking1337stuff"><img align="left" alt="codeSTACKr | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" /></a>
 
 <p align="center">
